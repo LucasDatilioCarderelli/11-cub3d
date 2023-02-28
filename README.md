@@ -24,9 +24,6 @@
     	<img src="https://img.shields.io/badge/-vnazioze-gray?style=flat&logo=42&logoColor=white" />
 	</a>
 	<br>
-    <img src="https://img.shields.io/github/last-commit/LucasDatilioCarderelli/02-Pipex?color=blue">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/LucasDatilioCarderelli/02-Pipex?color=blue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/LucasDatilioCarderelli/02-Pipex?color=blue" />
 </p>
 
 Project 11: Cub3D - Eleventh project for the formation of software engineers at school 42 São Paulo.
@@ -147,7 +144,7 @@ the maze.
 ---
 
 <br>
-
+Authors: &ensp;
 <a href="https://github.com/LucasDatilioCarderelli" alt="login intra">
     <img src="https://img.shields.io/badge/-ldatilio-gray?style=flat&logo=42&logoColor=white" />
 </a>
