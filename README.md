@@ -37,6 +37,7 @@ Project 11: Cub3D - Eleventh project for the formation of software engineers at 
 <br>
 
 ![gameplay](https://user-images.githubusercontent.com/83036509/219818886-1cb1f06d-862c-473e-a2bd-305c0960e93b.gif)
+
 description: A gif of a player running in loop in a squared map
 
 ## **How to Run**
