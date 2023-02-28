@@ -18,8 +18,7 @@
 	</a>
     &
 	<a href="https://www.linkedin.com/in/viniciusnaziozeno/">
-    	<img alt="Linkedin" src="https://img.shields.io/badge/
-		Vinicius Naziozeno-blue?style=flat&logo=Linkedin&logoColor=white" />
+    	<img alt="Linkedin" src="https://img.shields.io/badge/Vinicius Naziozeno-blue?style=flat&logo=Linkedin&logoColor=white" />
   	</a>
 	<a href="https://github.com/Vinicius-Santoro" alt="login intra">
     	<img src="https://img.shields.io/badge/-vnazioze-gray?style=flat&logo=42&logoColor=white" />
@@ -160,7 +159,6 @@ the maze.
 	<img src="https://img.shields.io/badge/-vnazioze-gray?style=flat&logo=42&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/viniciusnaziozeno/">
-	<img alt="Linkedin" src="https://img.shields.io/badge/
-	Vinicius Naziozeno-blue?style=flat&logo=Linkedin&logoColor=white" />
+	<img alt="Linkedin" src="https://img.shields.io/badge/Vinicius Naziozeno-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 <br>
